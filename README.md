@@ -1,4 +1,4 @@
-# scorepipe
+# scorepipe2
 
 This is a library that allows you create a hierarchical prediction structure.
 
@@ -8,7 +8,7 @@ git clone https://github.com/milescadkins/scorepipe.git
 
 # .2) Create virtual environment and install dependencies
 
-python -m venv scorepipe
+python34 -m venv scorepipe
 
 cd scorepipe
 
